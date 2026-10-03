@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T21:55:35.536Z",
+  "updatedAt": "2026-10-03T21:57:08.076Z",
   "courses": [
     {
       "id": 4,
@@ -11,7 +11,18 @@
       "modulos": 12,
       "tipoConteudo": "misto",
       "estado": "Ativo",
-      "aulas": []
+      "aulas": [
+        {
+          "id": 1,
+          "titulo": "Yyyy",
+          "descricao": "",
+          "tipo": "audio",
+          "duracao": "",
+          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/4/audio/1791064599157-Curso-de-Ingls---ddddddddddddddddddddddddddd.mp3",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        }
+      ]
     }
   ]
 }
