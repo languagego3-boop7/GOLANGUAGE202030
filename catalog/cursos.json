@@ -1,38 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T21:54:16.825Z",
+  "updatedAt": "2026-10-03T21:55:35.536Z",
   "courses": [
     {
-      "id": 2,
-      "nome": "Curso de Ingles ",
-      "descricao": "aprenda a falar a lingua dos seus sonhos",
-      "preco": 15000,
-      "img": "https://github.com/languagego3-boop7/GOLANGUAGE202030/blob/master/D1659AAA-2C11-4078-B4F9-FF323CEFC57E.png?raw=true",
-      "modulos": 1,
+      "id": 4,
+      "nome": "Leom Michel frances",
+      "descricao": "Uuutt",
+      "preco": 255555,
+      "img": "https://images.unsplash.com/photo-1543165365-07b8f0f69b5e?w=600",
+      "modulos": 12,
       "tipoConteudo": "misto",
       "estado": "Ativo",
-      "aulas": [
-        {
-          "id": 1,
-          "titulo": "aula 1",
-          "descricao": "",
-          "tipo": "audio",
-          "duracao": "",
-          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/2/audio/1791059170992-4--Vento-Lento.mp3",
-          "downloadUrl": "",
-          "estado": "Publicada"
-        },
-        {
-          "id": 2,
-          "titulo": "222",
-          "descricao": "",
-          "tipo": "pdf",
-          "duracao": "",
-          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/2/pdf/1791060291853-Carta-de-Apresentacao-e-Proposta---Digital-Froxe.pdf.pdf",
-          "downloadUrl": "",
-          "estado": "Publicada"
-        }
-      ]
+      "aulas": []
     }
   ]
 }
