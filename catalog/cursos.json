@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T16:24:51.937Z",
+  "updatedAt": "2026-10-03T20:16:50.343Z",
   "courses": [
     {
       "id": 1,
@@ -129,60 +129,6 @@
           "tipo": "video",
           "duracao": "",
           "url": "https://youtu.be/9n5uUf1Hsi8?si=ex3KWlw1p3Babedj",
-          "downloadUrl": "",
-          "estado": "Publicada"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "nome": "Curso de Francês",
-      "descricao": "Francês do 0 ao avançado",
-      "preco": 2222222,
-      "img": "https://images.unsplash.com/photo-1543165365-07b8f0f69b5e?w=600",
-      "modulos": 2222,
-      "tipoConteudo": "video",
-      "estado": "Ativo",
-      "aulas": [
-        {
-          "id": 1,
-          "titulo": "22222222",
-          "descricao": "",
-          "tipo": "video",
-          "duracao": "",
-          "url": "ROBLOX_a4038a16-46f0-481c-b43d-890da23bf89a.mp4 (31.5 MB)",
-          "downloadUrl": "",
-          "estado": "Publicada"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "nome": "Curso de Espanhol",
-      "descricao": "Aprenda espanhol conosco",
-      "preco": 1222,
-      "img": "https://images.unsplash.com/photo-1543165365-07b8f0f69b5e?w=600",
-      "modulos": 5,
-      "tipoConteudo": "misto",
-      "estado": "Ativo",
-      "aulas": [
-        {
-          "id": 1,
-          "titulo": "1111111111",
-          "descricao": "",
-          "tipo": "video",
-          "duracao": "",
-          "url": "Sequência 01.mp4 (30.4 MB)",
-          "downloadUrl": "",
-          "estado": "Publicada"
-        },
-        {
-          "id": 2,
-          "titulo": "2222222",
-          "descricao": "",
-          "tipo": "video",
-          "duracao": "",
-          "url": "Sequência 01.mp4 (30.4 MB)",
           "downloadUrl": "",
           "estado": "Publicada"
         }
