@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-03T16:24:07.700Z",
+  "courses": [
+    {
+      "id": 1,
+      "nome": "Curso de Inglês",
+      "descricao": "hhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "preco": 2,
+      "img": "https://pbs.twimg.com/media/HDfJwcZaAAAxuEk.jpg",
+      "modulos": 2,
+      "tipoConteudo": "misto",
+      "estado": "Ativo",
+      "aulas": [
+        {
+          "id": 1,
+          "titulo": "222",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/1/video/1790854316032-WhatsApp-Video-2026-08-25-at-06.45.35.mp4",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 2,
+          "titulo": "2224",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/1/video/1790854586834-ai-generations_minimax-h3_28f5bfc3-41f4-45a2-a28e-7d261417ae95-TyOQgS.mp4",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 3,
+          "titulo": "qq",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/1/video/1790936310856-WhatsApp-Video-2026-08-25-at-06.45.41.mp4",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 4,
+          "titulo": "aaaa",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/1/video/1790937075694-WhatsApp-Video-2026-08-25-at-07.28.17.mp4",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 5,
+          "titulo": "ddddddddddddddddddddddddddd",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/1/video/1790938338452-cf0c0a1665e76ff89e273518ba663e1d.mp4",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 6,
+          "titulo": "ddddddddddddddddddddddddddd",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/1/video/1790939845675-WhatsApp-Video-2026-10-02-at-12.11.39-2-.mp4",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 7,
+          "titulo": "ddddddddddddddddddddddddddd",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/1/video/1790941048768-WhatsApp-Video-2026-10-02-at-12.11.40-1-.mp4",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 8,
+          "titulo": "222",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/1/video/1790941151631-WhatsApp-Video-2026-10-02-at-12.11.39-2-.mp4",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 9,
+          "titulo": "222",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/1/video/1790941250019-WhatsApp-Video-2026-10-02-at-12.11.39-3-.mp4",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 10,
+          "titulo": "ddddddddddddddddddddddddddd",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/1/video/1790941374263-WhatsApp-Video-2026-10-02-at-12.11.41-2-.mp4",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 11,
+          "titulo": "ddddddddddddddddddddddddddd",
+          "descricao": "xx",
+          "tipo": "audio",
+          "duracao": "",
+          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/1/audio/1791044629458-ssstik.io_1787849820959.mp3",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Curso de Francês",
+      "descricao": "Francês do 0 ao avançado",
+      "preco": 2222222,
+      "img": "https://images.unsplash.com/photo-1543165365-07b8f0f69b5e?w=600",
+      "modulos": 2222,
+      "tipoConteudo": "video",
+      "estado": "Ativo",
+      "aulas": [
+        {
+          "id": 1,
+          "titulo": "22222222",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "ROBLOX_a4038a16-46f0-481c-b43d-890da23bf89a.mp4 (31.5 MB)",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Curso de Espanhol",
+      "descricao": "Aprenda espanhol conosco",
+      "preco": 1222,
+      "img": "https://images.unsplash.com/photo-1543165365-07b8f0f69b5e?w=600",
+      "modulos": 5,
+      "tipoConteudo": "misto",
+      "estado": "Ativo",
+      "aulas": [
+        {
+          "id": 1,
+          "titulo": "1111111111",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "Sequência 01.mp4 (30.4 MB)",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 2,
+          "titulo": "2222222",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "Sequência 01.mp4 (30.4 MB)",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        }
+      ]
+    }
+  ]
+}
