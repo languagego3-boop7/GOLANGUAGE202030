@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T20:24:24.319Z",
+  "updatedAt": "2026-10-03T20:26:21.783Z",
   "courses": [
     {
       "id": 2,
@@ -11,7 +11,18 @@
       "modulos": 1,
       "tipoConteudo": "misto",
       "estado": "Ativo",
-      "aulas": []
+      "aulas": [
+        {
+          "id": 1,
+          "titulo": "aula 1",
+          "descricao": "",
+          "tipo": "audio",
+          "duracao": "",
+          "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/2/audio/1791059170992-4--Vento-Lento.mp3",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        }
+      ]
     }
   ]
 }
