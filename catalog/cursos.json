@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T20:16:50.343Z",
+  "updatedAt": "2026-10-03T20:20:25.735Z",
   "courses": [
     {
       "id": 1,
@@ -133,6 +133,17 @@
           "estado": "Publicada"
         }
       ]
+    },
+    {
+      "id": 2,
+      "nome": "Curso de Ingles ",
+      "descricao": "aprenda a falar a lingua dos seus sonhos",
+      "preco": 15000,
+      "img": "https://github.com/languagego3-boop7/GOLANGUAGE202030/blob/master/D1659AAA-2C11-4078-B4F9-FF323CEFC57E.png?raw=true",
+      "modulos": 1,
+      "tipoConteudo": "misto",
+      "estado": "Ativo",
+      "aulas": []
     }
   ]
 }
