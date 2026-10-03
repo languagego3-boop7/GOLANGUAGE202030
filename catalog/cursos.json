@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T16:24:07.700Z",
+  "updatedAt": "2026-10-03T16:24:51.937Z",
   "courses": [
     {
       "id": 1,
@@ -119,6 +119,16 @@
           "tipo": "audio",
           "duracao": "",
           "url": "https://raw.githubusercontent.com/languagego3-boop7/GOLANGUAGE202030/master/media/cursos/1/audio/1791044629458-ssstik.io_1787849820959.mp3",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 12,
+          "titulo": "mard",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "",
+          "url": "https://youtu.be/9n5uUf1Hsi8?si=ex3KWlw1p3Babedj",
           "downloadUrl": "",
           "estado": "Publicada"
         }
