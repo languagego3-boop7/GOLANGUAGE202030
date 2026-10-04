@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T10:05:30.293Z",
+  "updatedAt": "2026-10-04T10:08:28.001Z",
   "courses": [
     {
       "id": 4,
       "nome": "Leom Michel frances",
       "descricao": "Uuutt",
       "preco": 255555,
-      "img": "https://images.unsplash.com/photo-1543165365-07b8f0f69b5e?w=600",
+      "img": "https://github.com/languagego3-boop7/GOLANGUAGE202030/blob/master/D1659AAA-2C11-4078-B4F9-FF323CEFC57E.png?raw=true",
       "modulos": 12,
       "tipoConteudo": "misto",
       "estado": "Ativo",
@@ -33,7 +33,18 @@
       "modulos": 1,
       "tipoConteudo": "video",
       "estado": "Ativo",
-      "aulas": []
+      "aulas": [
+        {
+          "id": 1,
+          "titulo": "aula 1",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "5",
+          "url": "https://youtu.be/JEhc1jg8Fao?si=9xJh_xz7uoZTHDz4",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        }
+      ]
     }
   ]
 }
