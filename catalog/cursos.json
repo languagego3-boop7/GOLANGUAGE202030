@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T10:08:28.001Z",
+  "updatedAt": "2026-10-04T10:09:41.962Z",
   "courses": [
     {
       "id": 4,
@@ -41,6 +41,16 @@
           "tipo": "video",
           "duracao": "5",
           "url": "https://youtu.be/JEhc1jg8Fao?si=9xJh_xz7uoZTHDz4",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 2,
+          "titulo": "aula 2",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "12",
+          "url": "https://youtu.be/CE3eW8Od9fs?si=cU3oGnkeXW_sPmUv",
           "downloadUrl": "",
           "estado": "Publicada"
         }
