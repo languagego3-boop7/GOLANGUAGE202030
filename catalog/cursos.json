@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T21:57:08.076Z",
+  "updatedAt": "2026-10-04T10:05:30.293Z",
   "courses": [
     {
       "id": 4,
@@ -23,6 +23,17 @@
           "estado": "Publicada"
         }
       ]
+    },
+    {
+      "id": 5,
+      "nome": "curso de mandarin",
+      "descricao": "este curso esta dedicado ao processo de aprendisagem",
+      "preco": 12000,
+      "img": "https://www.pinterest.com/pin/580471839516965979/",
+      "modulos": 1,
+      "tipoConteudo": "video",
+      "estado": "Ativo",
+      "aulas": []
     }
   ]
 }
