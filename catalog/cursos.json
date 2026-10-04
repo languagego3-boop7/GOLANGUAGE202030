@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T10:11:24.891Z",
+  "updatedAt": "2026-10-04T10:13:57.522Z",
   "courses": [
     {
       "id": 4,
@@ -59,8 +59,28 @@
           "titulo": "aula 3",
           "descricao": "",
           "tipo": "video",
-          "duracao": "",
+          "duracao": "13",
           "url": "https://youtu.be/4YDCskeIGKM?si=3LiO5QILoHtMwMrC",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 4,
+          "titulo": "aula 4",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "12",
+          "url": "https://youtu.be/tJiTPwVVrXw?si=Zk0t7T24mA7YbYij",
+          "downloadUrl": "",
+          "estado": "Publicada"
+        },
+        {
+          "id": 5,
+          "titulo": "aula 6",
+          "descricao": "",
+          "tipo": "video",
+          "duracao": "12",
+          "url": "https://youtu.be/j_jRpvDfIUU?si=WnG83VD4Mi_aa0KL",
           "downloadUrl": "",
           "estado": "Publicada"
         }
